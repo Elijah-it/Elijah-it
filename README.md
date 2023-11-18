@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elie 😁🐺
+<h1>👋 Hi, I’m Elie 😁🐺</h1>
 - 👀 I'm currently a beginner in the vast world of coding
 - 👨🏾‍💻 I try to learn more about coding every day
 - 🌱 I’m currently a student in The university of <a href="https://auca.ac.rw/">AUCA</a>
